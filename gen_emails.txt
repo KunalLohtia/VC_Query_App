@@ -1,0 +1,110 @@
+Label: Not Investment
+Subject: Event Reminder: Event reminders
+Body:
+Yours faithfully,
+
+Dear Friend,
+
+Can you share the agenda for the upcoming event?
+
+Friendly Events LLC
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Exclusive Offer: Crypto assets
+Body:
+Secure your financial future with expert guidance and long-term growth strategy.
+
+Global Investments Inc.
+
+Sincerely,
+
+Hello,
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Exclusive Offer: Dividends
+Body:
+We offer exclusive access to crypto assets with minimal risk.
+
+Dear Hannah Bautista,
+
+Happy Travels Inc.
+
+Yours faithfully,
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Hot Investment Tips: Crypto assets
+Body:
+This is the perfect time to invest in crypto.
+
+Dear Friend,
+
+Best regards,
+
+Happy Travels Inc.
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Event Reminder: Friendship messages
+Body:
+Can you share the agenda for the upcoming event?
+
+Dear Rose Hall,
+
+Warm wishes,
+
+Happy Travels Inc.
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Hot Investment Tips: Retirement savings
+Body:
+Good day,
+
+Diversify your portfolio with high-yield assets like mutual funds.
+
+Warm wishes,
+
+Happy Travels Inc.
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Portfolio Update: Venture capital
+Body:
+Dear Friend,
+
+This is the perfect time to invest in stocks.
+
+Warm wishes,
+
+Secure Wealth Solutions
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Meeting Update: Meeting schedule
+Body:
+Secure Wealth Solutions
+
+Dear Brian Mccoy,
+
+Let's catch up soon over a call.
+
+Take care,
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Event Reminder: Meeting schedule
+Body:
+Just checking in to see how you are doing!
+
+Global Investments Inc.
+
+Hi Sarah Norris,
+
+Best regards,
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Exclusive Offer: Financial growth
+Body:
+We offer exclusive access to real estate funds with minimal risk.
+
+Good day,
+
+Secure Wealth Solutions
+
+Yours faithfully,
+--------------------------------------------------------------------------------

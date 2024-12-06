@@ -1,0 +1,110 @@
+Label: Not Investment
+Subject: Meeting Update: Meeting schedule
+Body:
+Hi Travis King,
+
+Please share your availability for a quick catch-up call.
+
+Sincerely,
+
+Strategic Growth Partners
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Casual Chat: Family updates
+Body:
+Hello,
+
+Just checking in to see how you are doing!
+
+Best regards,
+
+Friendly Events LLC
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Exclusive Offer: Retirement savings
+Body:
+Dear Friend,
+
+Benefit from our advanced market insights and proven strategies.
+
+Best regards,
+
+Green Future Investments
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Hot Investment Tips: Financial literacy
+Body:
+Hello,
+
+Secure your financial future with expert guidance and diversification.
+
+Take care,
+
+Green Future Investments
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Exclusive Offer: Retirement savings
+Body:
+Dear Jeffery Nelson,
+
+Benefit from our advanced market insights and proven strategies.
+
+Sincerely,
+
+Summit Asset Management
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Exclusive Offer: Blue-chip stocks
+Body:
+Hello,
+
+Maximize your wealth through structured asset allocation.
+
+Sincerely,
+
+Global Investments Inc.
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Portfolio Update: Fixed-income securities
+Body:
+Hi Julian Bailey,
+
+Take advantage of low-risk, high-reward options in emerging markets.
+
+Yours faithfully,
+
+Secure Wealth Solutions
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Portfolio Update: Financial literacy
+Body:
+Hi Jacob West,
+
+We offer exclusive access to crypto assets with minimal risk.
+
+Take care,
+
+NextGen Financials
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Hot Investment Tips: Crypto assets
+Body:
+Hello,
+
+Explore stable returns through tax-efficient investment solutions.
+
+Yours faithfully,
+
+Stellar Mutual Funds
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Meeting Update: General inquiries
+Body:
+Dear Friend,
+
+Please find attached the agenda for next week's meeting.
+
+Yours faithfully,
+
+ProEdge Investments
+--------------------------------------------------------------------------------

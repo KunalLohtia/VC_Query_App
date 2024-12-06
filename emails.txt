@@ -1,0 +1,110 @@
+Label: Not Investment
+Subject: Event Reminder: Event reminders
+Body:
+Secure Wealth Solutions
+
+Sincerely,
+
+Just checking in to see how you are doing!
+
+Dear Friend,
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Event Reminder: General inquiries
+Body:
+Best regards,
+
+Secure Wealth Solutions
+
+Let's catch up soon over a call.
+
+Hello,
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Meeting Update: Casual chats
+Body:
+Hi Jessica Campbell,
+
+Secure Wealth Solutions
+
+Let's catch up soon over a call.
+
+Warm wishes,
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Event Reminder: Casual chats
+Body:
+Happy Travels Inc.
+
+Best regards,
+
+Dear Misty Reilly,
+
+Just checking in to see how you are doing!
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Casual Chat: Event reminders
+Body:
+Friendly Events LLC
+
+Warm wishes,
+
+Looking forward to our meeting on 2024-12-04.
+
+Good day,
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Exclusive Offer: Financial growth
+Body:
+Happy Travels Inc.
+
+We offer exclusive access to real estate funds with minimal risk.
+
+Take care,
+
+Hi Andrea Sanchez,
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Hot Investment Tips: Dividends
+Body:
+NextGen Financials
+
+This is the perfect time to invest in stocks.
+
+Yours faithfully,
+
+Hi Erin Cunningham,
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Event Reminder: Event reminders
+Body:
+Yours faithfully,
+
+Global Investments Inc.
+
+Hi Hannah Garcia,
+
+Let's catch up soon over a call.
+--------------------------------------------------------------------------------
+Label: Investment
+Subject: Portfolio Update: Stocks
+Body:
+Diversify your portfolio with high-yield assets like mutual funds.
+
+Warm wishes,
+
+Hi Nathan Gomez,
+
+Global Investments Inc.
+--------------------------------------------------------------------------------
+Label: Not Investment
+Subject: Casual Chat: Family updates
+Body:
+Secure Wealth Solutions
+
+Here are the details of our travel plan to Johnsonside.
+
+Warm wishes,
+
+Hi Jill Cuevas,
+--------------------------------------------------------------------------------
